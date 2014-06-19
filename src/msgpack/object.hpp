@@ -43,7 +43,7 @@ namespace type {
 		RAW					= MSGPACK_OBJECT_RAW,
 		ARRAY				= MSGPACK_OBJECT_ARRAY,
 		MAP					= MSGPACK_OBJECT_MAP,
-    STRING      = MSGPACK_OBJECT_STRING
+    BIN      = MSGPACK_OBJECT_BIN
 	};
 }
 
